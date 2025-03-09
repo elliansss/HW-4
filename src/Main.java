@@ -67,7 +67,8 @@ public class Main {
             System.out.println("Самое большее из трех чисел - 3");
             int three = 3;
         }
-    }}
+    }
+}
 
 
 
